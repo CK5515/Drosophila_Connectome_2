@@ -131,4 +131,4 @@ It doesn't trip. Feeding (sugar to MN9) is the slow one at ~12 ms. Grooming (Joh
 
 *...but by a 2 times margin... not so wide. The "ringing" turned out to be output neurons firing spike trains phase-locked to the pulse, not the network oscillating. My ringing test can't tell those apart. Everything responds within 5-35 ms and is silent by ~70 ms. There's something to separate. Just barely... all of it is fast.* Which means 2 ms bins is the method.
 
-This is the new circuit. Feeding + grooming + escape, same k-hop carve as part 1 with a cap per circuit... **8,677 neurons, 997k edges, 46% inhibitory.** `runs/b1_circuits/20261110-100042`
+This is the new circuit. Feeding + grooming + escape. **8,677 neurons, 997k edges, 46% inhibitory.** `runs/b1_circuits/20261110-100042`
