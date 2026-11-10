@@ -118,7 +118,7 @@ Then the fly: **0.07-0.11 against a floor of 0.145.** From -3.4 to just under th
 
 ## 8.
 
-*New task of three behaviours*
+*New task*
 <hr/>
 
 NEW PHASE B gives the router a real job. Three circuits instead of one and inputs that change over time.
